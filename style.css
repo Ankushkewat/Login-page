@@ -1,0 +1,40 @@
+.green{
+  color:green;
+}
+
+
+body {
+    font-size:#FF1313 
+    background: linear-gradient(to left top, #2D3047,#080705);
+    height:100vh;
+    width: 100vw;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.head{
+  text-align: center;
+}
+
+.main{
+  height:300px;
+  width: 50%;
+  background:#FFEED6;
+  display: flex;
+  flex-direction: column;
+  gap:50px;
+  padding: 40px;
+  border-radius: 8px;
+}
+
+input{
+  padding:6px;
+  background:#FBBFCA; 
+}
+
+h2{
+  color:green;
+}
